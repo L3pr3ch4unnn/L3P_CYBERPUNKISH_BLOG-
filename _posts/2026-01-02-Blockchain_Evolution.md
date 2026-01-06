@@ -177,17 +177,18 @@ La masa monetaria en circulación de USD, tomando como referencia el año 1985, 
 
 La masa monetaria en circulación de EUR, tomando como referencia el año 1985, ha crecido cerca de un x8.
 
-El resultado es la dilución del valor del dinero, siendo el atesoramiento de estas monedas una pobre inversión a medio y largo plazo.
+El resultado de la impresión de dólares y euros, es la dilución del valor de cada unidad del propio dinero, siendo el atesoramiento de estas monedas una pobre inversión a medio y largo plazo.
 
-Sin embargo BTC y otras “cryptos” con características fundamentales fuertes, se caracterizan por tener una cantidad máxima de unidades (si no se vota lo contrario por la red), en contraste con EUR y USD. 
+Sin embargo BTC y otras “cryptos” que poseen fundamentales fuertes, independientemente de la utilidad de cada una, al menos tienen una cantidad máxima de unidades creadas, en contraste con EUR y USD. 
 
-Notable diferencia entre bienes que tienden a la escasez, y otros que tienden a multiplicarse sin que su demanda o respaldo sea proporcional.
+De gran relevancia, la notable diferencia entre bienes que tienden a la escasez, y otros que tienden a multiplicarse sin que su demanda o respaldo sea proporcional, suponiendo una reducción de su precio de mercado.
 
-Esto ha permitido la revalorización de los pares BTC/USD BTC/EUR en los últimos años.
+Esta situación ha permitido una gigantesca revalorización de los pares de BTC ETH XRP SOL respecto a USD y EUR en los últimos años.
 <br><br/>
 USD M2 Supply
 
 <img width="1152" height="402" alt="m2_supply" src="https://github.com/user-attachments/assets/adfb0771-87f1-46e7-bff9-0040eebd41ff" />
+
 <br><br/>
 EUR M2 Supply
 
