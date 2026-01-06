@@ -140,7 +140,7 @@ Un antes y un después que influiría en el Status quo. Llegó para poner en jaq
 ----------------------------------------------------------------------------------------------------------------------------------------
 <br><br/>
 
-<img width="1411" height="786" alt="maxhhhh" src="https://github.com/user-attachments/assets/f1504b93-e908-43eb-b09d-a12969fb6691" />
+<img width="800" height="400" alt="maxhhhh" src="https://github.com/user-attachments/assets/f1504b93-e908-43eb-b09d-a12969fb6691" />
 
 
 <br><br/>
