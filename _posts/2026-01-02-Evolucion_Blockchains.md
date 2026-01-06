@@ -366,7 +366,7 @@ Posteriormente a la revaloración que han experimentado estos activos en los úl
 
 Teniendo en cuenta que existen blockchains con capacidades superiores, bajo mi humilde punto de vista, no acaba de encajar la evolución de precio con la utilidad aportada.
 
-Tampoco podría negar que es una imporatante red resistente a la censura.
+Tampoco podría negar que es una importante red resistente a la censura.
 
 <br><br/>
 <br><br/>
