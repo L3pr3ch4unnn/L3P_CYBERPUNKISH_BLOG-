@@ -18,7 +18,7 @@ INDICE <br><br/>
 
 2. Blockchain en el mundo de hoy
 
-	Valor blockchain vs FIAT
+	Valor ecosistemas blockchain vs monedas FIAT
 
 	Competencia y utilidad
 
@@ -54,7 +54,7 @@ Se trata de un análisis sobre como se ha transicionado desde la filosófica pri
 1 - HISTORIA DE UNA DISRUPCIÓN
 ----------------------------------------------------------------------------------------------------------------------------------------
 <br><br/>
-![Manhattan_1980s_color_97](https://github.com/user-attachments/assets/07690504-9239-421b-84ab-c49bf2479565)
+![Manhattan_1980s_color_97](https://github.com/user-attachments/assets/11118e07-54cf-486f-a20a-30c5d41a5501)
 
 <br><br/>
 
@@ -75,7 +75,7 @@ Fueron los pioneros y los Beta Testers de algo más grande, que se desarrollarí
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 <br><br/>
-<img width="1061" height="558" alt="CYpherpunksss" src="https://github.com/user-attachments/assets/531299f1-7a0b-4dbe-a4db-17066eab0ac9" />
+<img width="1061" height="558" alt="Cypherpunks" src="https://github.com/user-attachments/assets/46df8702-cf06-41aa-86ae-3421754df070" />
 
 <br><br/>
 
@@ -112,7 +112,8 @@ En 1988 Eric Huges escribió el importante manifiesto crypto-anarquista:
    
 ----------------------------------------------------------------------------------------------------------------------------------------
 <br><br/>
-![btccc](https://github.com/user-attachments/assets/2b30dc2d-35a0-4d64-8c4a-df7a8ec4b5bf)
+![btccc](https://github.com/user-attachments/assets/7911bb4d-c0b1-473f-94b9-dc5a18ee0016)
+
 <br><br/>
 
 Partiendo del inmenso y complejo trabajo de campo realizado por los cypherpunks, la filosofía anarquista comenzó a ver posible una materialización, que hasta el momento, había sido plasmada en lineas de código orientadas principalmente a mejorar los estándares criptográficos.
@@ -131,7 +132,8 @@ Un antes y un después que influiría en el Status quo. Llegó para poner en jaq
 ----------------------------------------------------------------------------------------------------------------------------------------
 <br><br/>
 
-<img width="1411" height="786" alt="maxhhhh" src="https://github.com/user-attachments/assets/b3b93db5-589f-4455-b9f5-f0e6c47fedaf" />
+<img width="1411" height="786" alt="maxhhhh" src="https://github.com/user-attachments/assets/f1504b93-e908-43eb-b09d-a12969fb6691" />
+
 
 <br><br/>
 
@@ -159,8 +161,7 @@ La única certeza de la que disponemos hoy en día es que, por el momento, el cr
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 <br><br/>
-
-![dollar_burn](https://github.com/user-attachments/assets/9224ecbb-25e8-4ddd-9b76-06e088389fd1)
+![dollar_burn](https://github.com/user-attachments/assets/06b26565-d72f-4913-a293-659903ee3cf0)
 
 <br><br/>
 
@@ -183,8 +184,17 @@ Sin embargo BTC y otras “cryptos” con características fundamentales fuertes
 Notable diferencia entre bienes que tienden a la escasez, y otros que tienden a multiplicarse sin que su demanda o respaldo sea proporcional.
 
 Esto ha permitido la revalorización de los pares BTC/USD BTC/EUR en los últimos años.
-
+<br><br/>
 USD M2 Supply
+
+<img width="1152" height="402" alt="m2_supply" src="https://github.com/user-attachments/assets/adfb0771-87f1-46e7-bff9-0040eebd41ff" />
+<br><br/>
+EUR M2 Supply
+
+<img width="1633" height="405" alt="Eur_m2" src="https://github.com/user-attachments/assets/2e0e166e-81fb-425c-8518-23a5bbe96fa3" />
+
+
+
 
 <br><br/>
 	
@@ -200,7 +210,8 @@ USD M2 Supply
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 <br><br/>
-![Pioneering-Cryptos-in-2025-Assessing-the-Potential-of-XRP-Solana-and-Ethereum](https://github.com/user-attachments/assets/f220a265-ed54-48be-9158-dbe95e5c78fd)
+![Pioneering-Cryptos-in-2025-Assessing-the-Potential-of-XRP-Solana-and-Ethereum](https://github.com/user-attachments/assets/5a131f78-68dc-4802-808d-f607e00eb8d7)
+
 <br><br/>
 
 
@@ -212,7 +223,8 @@ En la práctica, según ha ido cumpliendo años, el rendimiento de la red de BTC
 
 <br><br/>
 
-<img width="591" height="401" alt="settlement_comparision" src="https://github.com/user-attachments/assets/195f264f-93ec-444e-9775-eaa4e6af7f3e" />
+<img width="591" height="401" alt="settlement_comparision" src="https://github.com/user-attachments/assets/e1e60b25-6fe1-4eb7-af3d-8cf2d7de67d3" />
+
 
 <br><br/>
 
@@ -262,7 +274,8 @@ De manifiesta importantcia la nueva muralla china que se hagenerado con esta bar
 ----------------------------------------------------------------------------------------------------------------------------------------
 <br><br/>
 
-![developers_clash](https://github.com/user-attachments/assets/94259992-5d17-4dfb-a91e-35489a579c1b)
+![developers_clash](https://github.com/user-attachments/assets/f2494918-85be-4d8a-a923-30d5e76ca407)
+
 
 <br><br/>
 
@@ -302,7 +315,7 @@ Quizás no sea casual que hayan tenido un desarrollo mas eficiente hasta la fech
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 <br><br/>
-![speculator](https://github.com/user-attachments/assets/e01c03fb-0b19-4361-98e3-cad4ebaff955)
+![speculator](https://github.com/user-attachments/assets/001f0357-d94f-4291-a53d-e5eb00729951)
 <br><br/>
 
 Casi ya 15 años atrás, recuerdo estar sentado en un autobús municipal, leyendo el White Paper de Bitcoin, camino de las clases de Empresa y Economía en la universidad.
@@ -348,7 +361,8 @@ Tampoco podría negar que es una imporatante red resistente a la censura.
 3 - TENDENCIAS A FUTURO
 ----------------------------------------------------------------------------------------------------------------------------------------
 <br><br/>
-![Cyberpunk City](https://github.com/user-attachments/assets/69a10417-2d5b-41be-93be-6e67225c7c09)
+![Cyberpunk City](https://github.com/user-attachments/assets/7c45fb87-3487-44eb-be00-c86b016d4460)
+
 <br><br/>
 La descentralización ha sido uno de los conceptos más importantes para movimientos opuestos al estatitsmo. 
 
@@ -388,7 +402,7 @@ El sistema SWIFT tiene importantes carencias, que quizás utilizando las nuevas 
 ----------------------------------------------------------------------------------------------------------------------------------------
 <br><br/>
 
-![tech_advance](https://github.com/user-attachments/assets/e6fc2b37-c9c5-4eea-a266-eb001a056faa)
+![tech_advance](https://github.com/user-attachments/assets/2abf059b-52cc-42af-8da1-2f25983e7a69)
 
 
 <br><br/>
@@ -424,7 +438,8 @@ Esto es especialmente importante si cualquiera de las partes utiliza sistemas au
 ----------------------------------------------------------------------------------------------------------------------------------------
 <br><br/>
 
-![ISO_20022](https://github.com/user-attachments/assets/9c9ba262-549d-4bac-a9cd-68f0e1cc93eb)
+![ISO_20022](https://github.com/user-attachments/assets/68047d3b-5565-4853-adc0-87009e3f2d9e)
+
 
 <br><br/>
 
@@ -469,7 +484,8 @@ Características de ISO 20022:
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 <br><br/>
-![stablecoin_digital](https://github.com/user-attachments/assets/f168882b-2f98-4f29-b71d-46613db2d64b)
+![stablecoin_digital](https://github.com/user-attachments/assets/8985f279-fc92-4b10-a359-ac1c363c9a50)
+
 <br><br/>
 Es observable que estamos asistiendo a una de las grandes batallas en la historia del dinero. 
 
@@ -556,7 +572,7 @@ En un libre mercado, y en un mundo no distópico, el consumidor tiene la liberta
 
 <br><br/>
 
-Día tras día recibimos noticias de como se están otorgando licencias bancarias y de participación en el mercado a las empresas que están detrás de las Stablecoins, que ya mueven una cantidad ingente de dinero como Tehter Circle o Ripple.
+Día tras día recibimos noticias sobre la concesión de licencias bancarias y de participación en el mercado a las empresas que están detrás de las Stablecoins, que ya mueven una cantidad ingente de dinero como Tehter, Circle o Ripple.
 
 A 12 de Diciembre de 2025, la OCC ha dictaminado que empresas como Coinbase, Ripple, Fidelity Digital Assets, BitGo y Paxos han recibido el visto bueno de las entidades reguladoras para convertirse en Bancos de activos digitales.
 
@@ -566,7 +582,7 @@ El mercado dirá.
 
 En las personas quedará el exigir a las entidades reguladoras y gobernantes, el uso de tecnologías que estén a su altura moral e intelectual.
 
-Esperemos que el BrainRotting no influya demasiado en esta silenciosa batalla, y que se le otorgue la importancia que merece.
+Esperemos que el Brain Rotting no influya demasiado en esta silenciosa batalla, y que se le otorgue la importancia que merece.
 
 :)
 
