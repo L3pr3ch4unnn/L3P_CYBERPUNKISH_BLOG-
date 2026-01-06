@@ -196,12 +196,12 @@ Esta situación ha permitido una gigantesca revalorización de los pares de BTC 
 <br><br/>
 USD M2 Supply
 
-<img width="1152" height="402" alt="m2_supply" src="https://github.com/user-attachments/assets/adfb0771-87f1-46e7-bff9-0040eebd41ff" />
+<img width="800" height="400" alt="m2_supply" src="https://github.com/user-attachments/assets/adfb0771-87f1-46e7-bff9-0040eebd41ff" />
 
 <br><br/>
 EUR M2 Supply
 
-<img width="1633" height="405" alt="Eur_m2" src="https://github.com/user-attachments/assets/2e0e166e-81fb-425c-8518-23a5bbe96fa3" />
+<img width="800" height="400" alt="Eur_m2" src="https://github.com/user-attachments/assets/2e0e166e-81fb-425c-8518-23a5bbe96fa3" />
 
 
 
